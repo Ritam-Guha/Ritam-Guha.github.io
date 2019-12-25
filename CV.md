@@ -6,7 +6,7 @@
 Bachelor of Engineering (Computer Science and Engineering), Jadavpur University, Kolkata, CGPA -9.2/10
 
 **ACADEMIC PROJECTS**<br>
-Title: Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Datasets
+Title: Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Datasets\
 Location: Jadavpur University, Kolkata
 Duration: July 2019 – Present
 Team size: 3
