@@ -1,8 +1,10 @@
--># RITAM GUHA
+<p align="center">
+# RITAM GUHA
 ![Ritam Guha](CV_pic_2.jpg)
 ### 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India
 **Contact No:** +919831524527\
-**Email ID: ritamguha16@gmail.com**<-
+**Email ID: ritamguha16@gmail.com**
+ </p>
 
 ## ACADEMIC QUALIFICATION
 Bachelor of Engineering (Computer Science and Engineering), Jadavpur University, Kolkata, CGPA -9.2/10
