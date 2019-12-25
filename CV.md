@@ -65,7 +65,7 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 
 ## PAPER PRESENTATIONS
 • Presented a paper titled **‘Contrast Enhancement of Degraded Document Image using partitioning based Genetic Algorithm’** at Government College of Engineering and Leather Technology, Kolkata, West Bengal, February 2019\
-• Presented a paper titled **‘Feature Selection using Histogram based Multi-Objective Genetic Algorithm for Handwritten Devanagari Numeral Recognition’** at Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India, October 2017\
+• Presented a paper titled **‘Feature Selection using Histogram based Multi-Objective Genetic Algorithm for Handwritten Devanagari Numeral Recognition’** at Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India, October 2017
 
 ## PUBLICATIONS
 • Ghosh, Manosij, **Ritam Guha**, Ram Sarkar, and Ajith Abraham. **‘A wrapper-filter feature selection technique based on ant colony optimization’** Neural Computing and Applications, 1-19\
@@ -94,30 +94,21 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 ## INDUSTRIAL VISIT
 **Probe Information Services Pvt. Ltd., Bangalore, June – July 2019**
 
-• Worked as a part of the team responsible for automating the company workflow most of which was previously done manually
-• Using Java Selenium framework, automated the process of web-scrapping trademark-registry information of every Indian company associated with the Ministry of Corporate Affairs
+• Worked as a part of the team responsible for automating the company workflow most of which was previously done manually\
+• Using Java Selenium framework, automated the process of web-scrapping trademark-registry information of every Indian company associated with the Ministry of Corporate Affairs\
 • Visited the company’s data warehouse in Salem, Chennai which enhanced my knowledge about the company workflow and its implementation.
 
 ## SCHOLASTIC ACHIEVEMENTS
 • Currently holding the 2nd position in the Department of Computer Science and Engineering of Jadavpur University with an overall CGPA of 9.202 out of 10 (till 5th semester of the curriculum)\
-
 • Secured 1st rank in 4th semester with a CGPA of 9.63, Jadavpur University\
-
 • Ranked 68th in West Bengal Joint Entrance Examination among nearly 1.5 lakh students, WBJEE, 2016\
-
 • Secured 23rd rank in the National Cyber Olympiad in West Bengal, Andaman & Nicobar Zone in class 12\
-
 • In 12thstandard board examination, secured 7th position in the state of West Bengal\
-
 • In 10thstandard board examination, secured 1st position in school and 12th position in the state level\
-
 • At 6th standard, received INSPIRE award from Government of India, Ministry of Science & Technology for best performance in the school in science group
 
 ## EXTRACURRICULAR ACTIVITIES
 • Member of IEEE student sector since August 2019\
-
 • Participated in college fresher inter-departmental robotics competition ‘JontroTontro’and built a parent following bot which always tracked a yellow circle attached to the back-end of the parent bot and followed it (organized by Mechanical Engineering department of Jadavpur University in February 2016)\
-
 • Participated in many competitive coding contests hosted by some popular platforms like Codechef, Hackerrank, etc. Codechef Monthly challenge, lunchtime, cook-off and Hackerrank week of code, HourRank, 101 Hack are to name a few competitions in which I have participated during 2017-18.\
-
 • Mentored two groups of juniors to complete two different projects on feature selection in my third year (2018)
