@@ -12,9 +12,9 @@
 Bachelor of Engineering (Computer Science and Engineering), Jadavpur University, Kolkata, CGPA -9.2/10
 
 ## ACADEMIC PROJECTS
-**Title:** Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Dataset
-**Duration:** July 2019 – Present
-**Objective:** To use coalition-game in GA to find a highly informative feature subset from HAR features
+**Title:** Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Dataset<br>
+**Duration:** July 2019 – Present<br>
+**Objective:** To use coalition-game in GA to find a highly informative feature subset from HAR features<br>
 **Individual Role:** Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA
 
 **Title:** Introduction of a Pearson Correlation Coefficient and Mutual Information Dependent Feature Ranking Technique<br>
@@ -22,9 +22,9 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 **Objective:** To develop a new feature ranking technique combining the statistical interpretations of PCC and MI<br>
 **Individual Role:** Proposed a new feature-ranking criterion which use feature-feature correlation (through PCC value) as well as feature-class correlation (through MI value)
 
-**Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values
-**Duration:** July 2019 – Present
-**Objective:** To implement nature-inspired optimization techniques like PSO, GA, ASO, etc. for finding optimal pixel intensity values using entropy-based fitness evaluation of candidate solutions
+**Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values<br>
+**Duration:** July 2019 – Present<br>
+**Objective:** To implement nature-inspired optimization techniques like PSO, GA, ASO, etc. for finding optimal pixel intensity values using entropy-based fitness evaluation of candidate solutions<br>
 **Individual Role:** Modified the fitness evaluation by introducing four separate terms namely edge count, edge intensity, entropy and dissimilarity measures
 
 **Title:** A Hybrid Swarm and Gravitation Based Feature Selection Algorithm for Handwritten Indic Script Classification Problem
