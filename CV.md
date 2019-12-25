@@ -2,7 +2,7 @@
 ## 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India
 **Contact No:** +919831524527; **Email ID: ritamguha16@gmail.com**
 
-**ACADEMIC QUALIFICATION**
+**ACADEMIC QUALIFICATION**<br>
 Bachelor of Engineering (Computer Science and Engineering), Jadavpur University, Kolkata, CGPA -9.2/10
 
 **ACADEMIC PROJECTS**
