@@ -87,7 +87,7 @@ Bachelor of Engineering (**Computer Science and Engineering**), Jadavpur Univers
 • Ghosh, Manosij, **Ritam Guha**, Pawan Kumar Singh, Vikrant Bhateja, and Ram Sarkar. **"A histogram-based fuzzy ensemble technique for feature selection."** Evolutionary Intelligence (2019): 1-12.\
 **Journal Name:** Evolutionary Intelligence, Springer, 27 August 2019 • Ghosh, Manosij, **Ritam Guha**, Imran Alam, et al. 2019.
 
-**Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection**. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062\
+• **Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection**. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062\
 **Journal Name:** Journal of Intelligent Systems, De Gruyter, 17 September 2019
 
 ## TECHNICAL SKILLS
