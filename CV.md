@@ -1,7 +1,7 @@
 <p align="center">
-# RITAM GUHA
-![Ritam Guha](CV_pic_2.jpg)
-### 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India
+<h1> RITAM GUHA </h1>
+<img src="CV_pic_2.jpg">
+<h3> 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India </h3>
 **Contact No:** +919831524527\
 **Email ID: ritamguha16@gmail.com**
  </p>
