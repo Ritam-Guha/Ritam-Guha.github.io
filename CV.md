@@ -1,15 +1,16 @@
 # RITAM GUHA
 ### 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India
-**Contact No:** +919831524527; **Email ID: ritamguha16@gmail.com**
+**Contact No:** +919831524527
+**Email ID: ritamguha16@gmail.com**
 
-**ACADEMIC QUALIFICATION**<br>
+## ACADEMIC QUALIFICATION
 Bachelor of Engineering (Computer Science and Engineering), Jadavpur University, Kolkata, CGPA -9.2/10
 
-**ACADEMIC PROJECTS**<br>
-Title: Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Datasets\
-Duration: July 2019 – Present\
-Objective: To use coalition-game in GA to find a highly informative feature subset from HAR features\
-Individual Role: Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA\
+## ACADEMIC PROJECTS
+**Title:** Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Datasets\
+**Duration:** July 2019 – Present\
+**Objective:** To use coalition-game in GA to find a highly informative feature subset from HAR features\
+**Individual Role:** Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA\
 
 Title: Introduction of a Pearson Correlation Coefficient and Mutual Information Dependent Feature Ranking Technique\
 Duration: July 2019 – Present\
@@ -59,13 +60,13 @@ Individual Role: Combined the results of GA and PSO by an algorithm called Avera
 Title: A Histogram based Fuzzy Ensemble Technique for Feature Selection\
 Duration: January – February 2018\
 Objective: Hybridization of GA, ACO, and PSO using the concepts on the histogram and fuzzy ensemble\
-Individual Role: After GA, ACO and PSO produced their individual feature subsets, merged them depending on the histogram and weight-based analysis\
+Individual Role: After GA, ACO and PSO produced their individual feature subsets, merged them depending on the histogram and weight-based analysis
 
-**PAPER PRESENTATIONS**<br>
+## PAPER PRESENTATIONS
 • Presented a paper titled ‘Contrast Enhancement of Degraded Document Image using partitioning based Genetic Algorithm’ at Government College of Engineering and Leather Technology, Kolkata, West Bengal, February 2019\
 • Presented a paper titled ‘Feature Selection using Histogram based Multi-Objective Genetic Algorithm for Handwritten Devanagari Numeral Recognition’ at Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India, October 2017\
 
-**PUBLICATIONS**<br>
+## PUBLICATIONS
 • Ghosh, Manosij, Ritam Guha, Ram Sarkar, and Ajith Abraham. ‘A wrapper-filter feature selection technique based on ant colony optimization’ Neural Computing and Applications, 1-19\
 Journal Name: Neural Computing and Applications, Springer (2019 Impact Factor: 4.664), 11 April 2019\
 • Guha, Ritam, Manosij Ghosh, Souvik Kapri, Sushant Shaw, Shyok Mutsuddi, Vikrant Bhateja, and Ram Sarkar ‘Deluge based Genetic Algorithm for feature selection’ Evolutionary Intelligence (2019): 1-11\
@@ -75,30 +76,30 @@ Journal Name: Journal of Intelligent Systems, De Gruyter (2018 SNIP: 0.533, 2018
 • Ghosh, Manosij, Ritam Guha, Riktim Mondal, Pawan Kumar Singh, Ram Sarkar, and Mita Nasipuri. "Feature selection using histogram-based multi-objective GA for handwritten Devanagari numeral recognition." In Intelligent Engineering Informatics, pp. 471-479. Springer, Singapore, 2018\
 Journal Name: Intelligent Engineering Informatics, Springer, 11 April 2018\
 • Ghosh, Manosij, Ritam Guha, Pawan Kumar Singh, Vikrant Bhateja, and Ram Sarkar. "A histogram-based fuzzy ensemble technique for feature selection." Evolutionary Intelligence (2019): 1-12.\
-Journal Name: Evolutionary Intelligence, Springer, 27 August 2019 • Ghosh, Manosij, Ritam Guha, Imran Alam, et al. 2019. Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062 Journal Name: Journal of Intelligent Systems, De Gruyter, 17 September 2019\
+Journal Name: Evolutionary Intelligence, Springer, 27 August 2019 • Ghosh, Manosij, Ritam Guha, Imran Alam, et al. 2019. Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062 Journal Name: Journal of Intelligent Systems, De Gruyter, 17 September 2019
 
-**TECHNICAL SKILLS**<br>
+## TECHNICAL SKILLS
 • Programming Language: C, C++, MATLAB, Java, Python (beginner).\
 • Operating System: Windows and Linux.\
-• Microsoft Office Package: Word, Excel, PowerPoint.\
+• Microsoft Office Package: Word, Excel, PowerPoint.
 
-**INDUSTRIAL VISIT**<br>
+## INDUSTRIAL VISIT
 Probe Information Services Pvt. Ltd., Bangalore, June – July 2019\
 • Worked as a part of the team responsible for automating the company workflow most of which was previously done manually\
 • Using Java Selenium framework, automated the process of web-scrapping trademark-registry information of every Indian company associated with the Ministry of Corporate Affairs\
-• Visited the company’s data warehouse in Salem, Chennai which enhanced my knowledge about the company workflow and its implementation.\
+• Visited the company’s data warehouse in Salem, Chennai which enhanced my knowledge about the company workflow and its implementation.
 
-**SCHOLASTIC ACHIEVEMENTS**<br>
+## SCHOLASTIC ACHIEVEMENTS
 • Currently holding the 2nd position in the Department of Computer Science and Engineering of Jadavpur University with an overall CGPA of 9.202 out of 10 (till 5th semester of the curriculum)\
 • Secured 1st rank in 4th semester with a CGPA of 9.63, Jadavpur University\
 • Ranked 68th in West Bengal Joint Entrance Examination among nearly 1.5 lakh students, WBJEE, 2016\
 • Secured 23rd rank in the National Cyber Olympiad in West Bengal, Andaman & Nicobar Zone in class 12\
 • In 12thstandard board examination, secured 7th position in the state of West Bengal\
 • In 10thstandard board examination, secured 1st position in school and 12th position in the state level\
-• At 6th standard, received INSPIRE award from Government of India, Ministry of Science & Technology for best performance in the school in science group\
+• At 6th standard, received INSPIRE award from Government of India, Ministry of Science & Technology for best performance in the school in science group
 
 **EXTRACURRICULAR ACTIVITIES**<br>
 • Member of IEEE student sector since August 2019\
 • Participated in college fresher inter-departmental robotics competition ‘JontroTontro’and built a parent following bot which always tracked a yellow circle attached to the back-end of the parent bot and followed it (organized by Mechanical Engineering department of Jadavpur University in February 2016)\
 • Participated in many competitive coding contests hosted by some popular platforms like Codechef, Hackerrank, etc. Codechef Monthly challenge, lunchtime, cook-off and Hackerrank week of code, HourRank, 101 Hack are to name a few competitions in which I have participated during 2017-18.\
-• Mentored two groups of juniors to complete two different projects on feature selection in my third year (2018)\
+• Mentored two groups of juniors to complete two different projects on feature selection in my third year (2018)
