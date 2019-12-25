@@ -7,17 +7,15 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 
 **ACADEMIC PROJECTS**<br>
 Title: Coalition-game based Genetic Algorithm to Perform Dimension Reduction of Human Activity Recognition Datasets\
-Location: Jadavpur University, Kolkata\
 Duration: July 2019 – Present\
-Team size: 3\
 Objective: To use coalition-game in GA to find a highly informative feature subset from HAR features\
-Individual Role: Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA\\
+Individual Role: Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA\<br>
+
 Title: Introduction of a Pearson Correlation Coefficient and Mutual Information Dependent Feature Ranking Technique\
-Location: Jadavpur University, Kolkata\
 Duration: July 2019 – Present\
-Team size: 3\
 Objective: To develop a new feature ranking technique combining the statistical interpretations of PCC and MI\
 Individual Role: Proposed a new feature-ranking criterion which use feature-feature correlation (through PCC value) as well as feature-class correlation (through MI value)\\
+
 Title: Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values
 Location: Jadavpur University, Kolkata
 Duration: July 2019 – Present
