@@ -22,7 +22,7 @@ Bachelor of Engineering (**Computer Science and Engineering**), Jadavpur Univers
 **Objective:** To develop a new feature ranking technique combining the statistical interpretations of PCC and MI
 **Individual Role:** Proposed a new feature-ranking criterion which use feature-feature correlation (through PCC value) as well as feature-class correlation (through MI value)
 
-**Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values
+**Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values  
 **Duration:** July 2019 – Present
 **Objective:** To implement nature-inspired optimization techniques like PSO, GA, ASO, etc. for finding optimal pixel intensity values using entropy-based fitness evaluation of candidate solutions
 **Individual Role:** Modified the fitness evaluation by introducing four separate terms namely edge count, edge intensity, entropy and dissimilarity measures
