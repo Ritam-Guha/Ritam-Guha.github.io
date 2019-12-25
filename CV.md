@@ -20,7 +20,7 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 **Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values\
 **Duration:** July 2019 – Present\
 **Objective:** To implement nature-inspired optimization techniques like PSO, GA, ASO, etc. for finding optimal pixel intensity values using entropy-based fitness evaluation of candidate solutions\
-**Individual Role:** Modified the fitness evaluation by introducing four separate terms namely edge count, edge intensity, entropy and dissimilarity measures\
+**Individual Role:** Modified the fitness evaluation by introducing four separate terms namely edge count, edge intensity, entropy and dissimilarity measures
 
 **Title:** A Hybrid Swarm and Gravitation Based Feature Selection Algorithm for Handwritten Indic Script Classification Problem\
 **Duration:** May – August 2019\
