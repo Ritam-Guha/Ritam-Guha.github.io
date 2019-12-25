@@ -17,9 +17,9 @@ Bachelor of Engineering (**Computer Science and Engineering**), Jadavpur Univers
 **Objective:** To use coalition-game in GA to find a highly informative feature subset from HAR features
 **Individual Role:** Introduced a coalition-game and Shapley value-dependent fitness function which in turn guided the selection of important features and modified the mutation function of GA
 
-**Title:** Introduction of a Pearson Correlation Coefficient and Mutual Information Dependent Feature Ranking Technique<br>
-**Duration:** July 2019 – Present<br>
-**Objective:** To develop a new feature ranking technique combining the statistical interpretations of PCC and MI<br>
+**Title:** Introduction of a Pearson Correlation Coefficient and Mutual Information Dependent Feature Ranking Technique
+**Duration:** July 2019 – Present
+**Objective:** To develop a new feature ranking technique combining the statistical interpretations of PCC and MI
 **Individual Role:** Proposed a new feature-ranking criterion which use feature-feature correlation (through PCC value) as well as feature-class correlation (through MI value)
 
 **Title:** Image Contrast Enhancement using Nature-inspired Optimization Algorithms and Entropy-based Fitness Values
@@ -30,7 +30,7 @@ Bachelor of Engineering (**Computer Science and Engineering**), Jadavpur Univers
 **Title:** A Hybrid Swarm and Gravitation Based Feature Selection Algorithm for Handwritten Indic Script Classification Problem
 **Duration:** May – August 2019
 **Objective:** To reduce of Automatic Script Identification (ASI) datasets using an effective hybridization of PSO and GSA
-**Individual Role:** Developed a model which used PSO’s local searching capabilities to overcome GSA’s low exploitation ability which was applied to Indian script-based features like DHT, HOG, MLG, etc.\
+**Individual Role:** Developed a model which used PSO’s local searching capabilities to overcome GSA’s low exploitation ability which was applied to Indian script-based features like DHT, HOG, MLG, etc.
 
 **Title:** Embedded Chaotic Whale Survival Algorithm for Filter-Wrapper Feature Selection
 **Duration:** March – May 2019
