@@ -1,4 +1,5 @@
 # RITAM GUHA
+![Ritam Guha](CV_pic_2.jpg)
 ### 326, East B.T. Road, Khardah, Kolkata-700117, West Bengal, India
 **Contact No:** +919831524527\
 **Email ID: ritamguha16@gmail.com**
@@ -98,7 +99,7 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 • In 10thstandard board examination, secured 1st position in school and 12th position in the state level\
 • At 6th standard, received INSPIRE award from Government of India, Ministry of Science & Technology for best performance in the school in science group
 
-**EXTRACURRICULAR ACTIVITIES**<br>
+## EXTRACURRICULAR ACTIVITIES
 • Member of IEEE student sector since August 2019\
 • Participated in college fresher inter-departmental robotics competition ‘JontroTontro’and built a parent following bot which always tracked a yellow circle attached to the back-end of the parent bot and followed it (organized by Mechanical Engineering department of Jadavpur University in February 2016)\
 • Participated in many competitive coding contests hosted by some popular platforms like Codechef, Hackerrank, etc. Codechef Monthly challenge, lunchtime, cook-off and Hackerrank week of code, HourRank, 101 Hack are to name a few competitions in which I have participated during 2017-18.\
