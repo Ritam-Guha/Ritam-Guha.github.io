@@ -69,15 +69,22 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 
 ## PUBLICATIONS
 • Ghosh, Manosij, **Ritam Guha**, Ram Sarkar, and Ajith Abraham. **‘A wrapper-filter feature selection technique based on ant colony optimization’** Neural Computing and Applications, 1-19\
-**Journal Name:** Neural Computing and Applications, Springer (2019 Impact Factor: 4.664), 11 April 2019\
+**Journal Name:** Neural Computing and Applications, Springer (2019 Impact Factor: 4.664), 11 April 2019
+
 • **Guha, Ritam**, Manosij Ghosh, Souvik Kapri, Sushant Shaw, Shyok Mutsuddi, Vikrant Bhateja, and Ram Sarkar **‘Deluge based Genetic Algorithm for feature selection’** Evolutionary Intelligence (2019): 1-11\
-**Journal Name:** Evolutionary Intelligence, Springer, 07 March 2019\
+**Journal Name:** Evolutionary Intelligence, Springer, 07 March 2019
+
 • **Guha, Ritam**, Manosij Ghosh, Pawan Kumar Singh, Ram Sarkar, and Mita Nasipuri. **‘M-HMOGA: A New Multi-Objective Feature Selection Algorithm for Handwritten Numeral Classification’** Journal of Intelligent Systems.\
-**Journal Name:** Journal of Intelligent Systems, De Gruyter (2018 SNIP: 0.533, 2018 Cite Score: 1.03), 14 June 2019\
+**Journal Name:** Journal of Intelligent Systems, De Gruyter (2018 SNIP: 0.533, 2018 Cite Score: 1.03), 14 June 2019
+
 • Ghosh, Manosij, **Ritam Guha**, Riktim Mondal, Pawan Kumar Singh, Ram Sarkar, and Mita Nasipuri. **"Feature selection using histogram-based multi-objective GA for handwritten Devanagari numeral recognition."** In Intelligent Engineering Informatics, pp. 471-479. Springer, Singapore, 2018\
-**Journal Name:** Intelligent Engineering Informatics, Springer, 11 April 2018\
+**Journal Name:** Intelligent Engineering Informatics, Springer, 11 April 2018
+
 • Ghosh, Manosij, **Ritam Guha**, Pawan Kumar Singh, Vikrant Bhateja, and Ram Sarkar. **"A histogram-based fuzzy ensemble technique for feature selection."** Evolutionary Intelligence (2019): 1-12.\
-**Journal Name:** Evolutionary Intelligence, Springer, 27 August 2019 • Ghosh, Manosij, **Ritam Guha**, Imran Alam, et al. 2019. **Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection**. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062 Journal Name: Journal of Intelligent Systems, De Gruyter, 17 September 2019
+**Journal Name:** Evolutionary Intelligence, Springer, 27 August 2019 • Ghosh, Manosij, **Ritam Guha**, Imran Alam, et al. 2019.
+
+**Binary Genetic Swarm Optimization: A Combination of GA and PSO for Feature Selection**. Journal of Intelligent Systems. 0(0): -. Retrieved 17 Sep. 2019, from doi:10.1515/jisys-2019-0062 
+**Journal Name:** Journal of Intelligent Systems, De Gruyter, 17 September 2019
 
 ## TECHNICAL SKILLS
 • **Programming Language:** C, C++, MATLAB, Java, Python (beginner).\
@@ -85,11 +92,10 @@ Bachelor of Engineering (Computer Science and Engineering), Jadavpur University,
 • **Microsoft Office Package:** Word, Excel, PowerPoint.
 
 ## INDUSTRIAL VISIT
-**Probe Information Services Pvt. Ltd., Bangalore, June – July 2019**\
-• Worked as a part of the team responsible for automating the company workflow most of which was previously done manually\
+**Probe Information Services Pvt. Ltd., Bangalore, June – July 2019**
 
-• Using Java Selenium framework, automated the process of web-scrapping trademark-registry information of every Indian company associated with the Ministry of Corporate Affairs\
-
+• Worked as a part of the team responsible for automating the company workflow most of which was previously done manually
+• Using Java Selenium framework, automated the process of web-scrapping trademark-registry information of every Indian company associated with the Ministry of Corporate Affairs
 • Visited the company’s data warehouse in Salem, Chennai which enhanced my knowledge about the company workflow and its implementation.
 
 ## SCHOLASTIC ACHIEVEMENTS
