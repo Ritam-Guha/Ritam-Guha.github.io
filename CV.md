@@ -1,3 +1,5 @@
+permalink: CV.html
+
 <h1 align="center"> RITAM GUHA </h1>
 <p align="center">
 <img src="CV_pic_2.jpg">
