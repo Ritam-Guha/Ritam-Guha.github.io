@@ -1,6 +1,2 @@
 theme: jekyll-theme-midnight
-defaults:  - 
-    scope:
-      path: "CV.md"
-    values:
-      permalink: "CV.html"
+
