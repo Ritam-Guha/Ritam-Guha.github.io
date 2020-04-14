@@ -1,5 +1,9 @@
 # Ritam Guha (Ritz)
 ### B.E., Jadavpur University, India
+<p align = "center">
+  <img src = "website_pic_1.jpg">
+</p>
+
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=sjZjJzcAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ritam_Guha), [LinkedIn](https://www.linkedin.com/in/ritam-guha-08b9a3138/)
 
 Hi there!! I am an ML enthusiast. I have interests at the intersection of ML, Optimization and Evolutionary Algorithms. Recently I have developed interest in Game Theory as well. Currently, I am in the final year of a 4-year Bachelor of Computer Science and Engineering.
