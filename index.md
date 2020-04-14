@@ -18,7 +18,7 @@ I have a pet dog named Pluto. He is currently 3 years old. He is one of the best
   <img src=pluto_pic.jpg width=300px height=400px>
 </p>
 
-<p align="center">
+<align="center">
   ***Favourite Quote: "There is some beauty in imperfection which perfection can never achieve"***
 </p>
 
