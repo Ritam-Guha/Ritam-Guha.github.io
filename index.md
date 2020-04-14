@@ -12,7 +12,7 @@ You can check my CV over [here](https://github.com/Ritam-Guha/Ritam-Guha.github.
 
 Hobbies: Computer gaming, Binge watching (Netflix originals and animes), Travelling.
 
-<img src=pluto_pic.jpg> I have a pet dog named Pluto. He is currently 3 years old. He is one of the best motivators around. Whenever I feel tired or lonely, I always find a friendly paw by my side. 
+<img src=pluto_pic.jpg width=50% height=50%> I have a pet dog named Pluto. He is currently 3 years old. He is one of the best motivators around. Whenever I feel tired or lonely, I always find a friendly paw by my side. 
 
 
 
