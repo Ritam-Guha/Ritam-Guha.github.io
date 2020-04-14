@@ -19,7 +19,7 @@ I have a pet dog named Pluto. He is currently 3 years old. He is one of the best
 </p>
 
 <p style="font-family: times, serif; font-size:11pt; font-style:italic">
-  ##  Favourite Quote: "There is some beauty in imperfection which perfection can never achieve"
+  Favourite Quote: "There is some beauty in imperfection which perfection can never achieve"
 </p>
 
 
