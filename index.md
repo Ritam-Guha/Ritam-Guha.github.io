@@ -17,7 +17,7 @@ Hobbies: Computer gaming, Binge watching (Netflix originals and animes), Travell
 I have a pet dog named Pluto. He is currently 3 years old. He is one of the best motivators around. Whenever I feel tired or lonely, I always find a friendly paw by my side. 
 
 <p align=center>
-  <img src=pluto_pic.jpg width=300px height=400px>
+  <img src=pluto_pic.jpg>
 </p>
 
 ***Favourite Quote: "There is some beauty in imperfection which perfection can never achieve"***
