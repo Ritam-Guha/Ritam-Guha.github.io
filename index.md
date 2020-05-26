@@ -8,7 +8,7 @@
 
 Hi there!! I am an ML enthusiast. I have interests at the intersection of ML, Optimization and Evolutionary Algorithms. Recently I have developed interest in Game Theory as well. Currently, I am in the final year of a 4-year Bachelor of Computer Science and Engineering. I wish to do my Ph.D. in the field of applications of AI in finance. 
 
-You can check my CV over [here](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/CV.md).
+You can check my CV over [here](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/CV.pdf).
 
 Hobbies: Computer gaming, Binge watching (Netflix originals and animes), Travelling.
 
