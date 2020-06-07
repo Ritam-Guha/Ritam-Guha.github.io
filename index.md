@@ -6,7 +6,10 @@
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=sjZjJzcAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ritam_Guha), [LinkedIn](https://www.linkedin.com/in/ritam-guha-08b9a3138/)
 
-Hi there!! I am an ML enthusiast. I have interests at the intersection of ML, Optimization and Evolutionary Algorithms. Recently I have developed interest in Game Theory as well. Currently, I am in the final year of a 4-year Bachelor of Computer Science and Engineering. I wish to do my Ph.D. in the field of applications of AI in finance. 
+Hi there!!
+I am a final year student of 4-ear Bachelor of Computer Science and Engineering course at Jadavpur University, India having interests at the junction of Machine Learning, Optimization and Evolutionary Algorithms. 
+
+After my Bachelors, I have been selected to pursue my PhD at Michigan State University (MSU) in the field of "applications of AI in Finance". I will be working as Graduate Assistant at the CSE depatment of MSU. 
 
 You can check my CV over here:
 * [Academic Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Academic_resume.pdf)
