@@ -7,9 +7,9 @@
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=sjZjJzcAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ritam_Guha), [LinkedIn](https://www.linkedin.com/in/ritam-guha-08b9a3138/)
 
 Hi there!!
-I am a final year student of 4-ear Bachelor of Computer Science and Engineering course at Jadavpur University, India having interests at the junction of Machine Learning, Optimization and Evolutionary Algorithms. 
+I am a final year student of 4-year Bachelor of Computer Science and Engineering course at Jadavpur University, India having interests at the junction of Machine Learning, Optimization and Evolutionary Algorithms. 
 
-After my Bachelors, I have been selected to pursue my PhD at Michigan State University (MSU) in the field of "applications of AI in Finance". I will be working as Graduate Assistant at the CSE depatment of MSU. 
+After my Bachelors, I have been selected to pursue my PhD at Michigan State University (MSU) in the field of "applications of AI in Finance". I will be working as Graduate Assistant at the CSE depatment of MSU. I truly believe that AI can make a huge impact in the financial sector not only in terms of technical analysis by processing tons of financial data but also in terms of fundamental analysis through newer avenues like NLP and data mining.  
 
 You can check my CV over here:
 * [Academic Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Academic_resume.pdf)
