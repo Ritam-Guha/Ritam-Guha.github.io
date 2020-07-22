@@ -12,8 +12,8 @@ I am a final year student of 4-year Bachelor of Computer Science and Engineering
 After my Bachelors, I have been selected to pursue my PhD at Michigan State University (MSU) in the field of "applications of AI in Finance". I will be working as Graduate Assistant at the CSE depatment of MSU. I truly believe that AI can make a huge impact in the financial sector not only in terms of technical analysis by processing tons of financial data but also in terms of fundamental analysis through newer avenues like NLP and data mining.  
 
 You can check my CV over here:
-* [Academic Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Academic_Resume.pdf)
-* [Industrial Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Industrial_Resume.pdf)
+* [Academic Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Academic_resume.pdf)
+* [Industrial Resume](https://github.com/Ritam-Guha/Ritam-Guha.github.io/blob/master/Industrial_resume.pdf)
 
 Hobbies: Computer gaming, Binge watching (Netflix originals and animes), Travelling.
 
